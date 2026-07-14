@@ -2,7 +2,7 @@
 
 ¡Bienvenido a **F1 Stats Lab**! Esta es una aplicación web interactiva desarrollada en Python y Streamlit que combina la pasión por la Fórmula 1 con el registro y seguimiento de competencias personales de karting o simuladores.
 
-👉 **[Hacé clic acá para probar la aplicación en vivo](TU_LINK_DE_STREAMLIT_ACÁ)** 🚀
+👉 **[Hacé clic acá para probar la aplicación en vivo](https://f1-stats-lab-cterlagos-f1-stats.streamlit.app/#f1-historico-and-actualidad)** 🚀
 
 ---
 
